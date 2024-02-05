@@ -1,0 +1,5 @@
+As a practicing typist, I want to generate n random characters so that I can practice typing them into monkeytype
+
+As a practicing typist, I want options to add uppercase characters and numbers so that I can practice more complex sentences
+
+As a practicing typist, I want to have words interspersed within my typing practice so that I can focus on accuracy and practicality in typing drills
